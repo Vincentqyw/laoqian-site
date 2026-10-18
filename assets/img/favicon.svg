@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="5" fill="#9b3328"/>
+  <rect x="5" y="5" width="54" height="54" rx="2" fill="none" stroke="#f7ecda" stroke-opacity=".55"/>
+  <text x="32" y="27" text-anchor="middle" font-family="Songti SC,STSong,serif" font-size="20" fill="#f7ecda">老</text>
+  <text x="32" y="50" text-anchor="middle" font-family="Songti SC,STSong,serif" font-size="20" fill="#f7ecda">钱</text>
+</svg>
